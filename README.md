@@ -1,2 +1,1 @@
-# I-am-so-vegetable
-learn from others
+让我瞅瞅github怎么用
